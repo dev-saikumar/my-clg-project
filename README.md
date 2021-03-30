@@ -1,2 +1,1 @@
-# my-clg-project
-this is my final year clg project....
+# pose Animator
